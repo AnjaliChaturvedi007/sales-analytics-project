@@ -17,7 +17,9 @@ The project uses two datasets:
 2. **Customer Data**: Contains customer demographic details.
    - Columns: CustomerID, CustomerName, City, Age
 
-### Sample Data
+### Data & solution:
+
+For SQL & Excel, simply open the HackStudio.xlsx file to view the data and solutions.
 
 https://github.com/AnjaliChaturvedi007/sales-analytics-project/blob/main/HackStudio.xlsx
 
